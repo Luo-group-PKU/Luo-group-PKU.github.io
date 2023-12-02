@@ -1,6 +1,6 @@
 ---
 title: Huang Hengshuo
-summary: mass transfer, gas absorption, theoretical model and applie mathematics
+summary: Mass transfer, gas absorption, theoretical model and applie mathematics
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
