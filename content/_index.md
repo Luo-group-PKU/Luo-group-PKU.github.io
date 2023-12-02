@@ -65,12 +65,12 @@ sections:
         - title: Marie-Curie Fellow
           company: Leiden University
           company_url: ''
-          company_logo: LU
+          company_logo: 
           location: The Netherlands
           date_start: '2020-07-01'
           date_end: '2023-02-01'
           description: |2-
-              Research Topic:
+              Responsibilities include:
 
               * Analysing
               * Modelling
@@ -78,7 +78,7 @@ sections:
         - title: Postdoctoral Fellow
           company: University of Toronto
           company_url: ''
-          company_logo: UoT
+          company_logo: 
           location: Canada
           date_start: '2018-07-01'
           date_end: '2020-07-01'
