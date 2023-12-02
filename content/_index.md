@@ -72,7 +72,7 @@ sections:
           description: |2-
               Research Topic:
 
-              * electrochemical processes at metal-electrolyte interfaces
+              * electrochemical
               * Modelling
               * Deploying
         - title: Postdoctoral Fellow
