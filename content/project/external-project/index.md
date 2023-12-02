@@ -1,5 +1,5 @@
 ---
-title: Ding Xueda
+title: Postdoc. Ding Xueda
 summary: Pt-based electrocatalysts for ammonia oxidation
 tags:
   - Demo

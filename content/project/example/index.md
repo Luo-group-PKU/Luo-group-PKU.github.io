@@ -1,5 +1,5 @@
 ---
-title: Wei Yi
+title: Ph.D student Wei Yi
 summary: Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
 tags:
   - Deep Learning
