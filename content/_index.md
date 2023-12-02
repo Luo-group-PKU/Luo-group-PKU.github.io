@@ -72,7 +72,7 @@ sections:
           description: |2-
               Research Topic:
 
-              * electrochemical
+              * Analysing
               * Modelling
               * Deploying
         - title: Postdoctoral Fellow
