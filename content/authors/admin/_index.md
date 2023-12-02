@@ -11,7 +11,7 @@ last_name: Luo
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑‍🔬️
 
 # Is this the primary user of the site?
 superuser: true
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingchuan Luo is an assistant professor of material science and engineering at Peking University. His research interests include theoretical electrochemistry, nanomaterial synthesis and electrochemical engineering. He leads the electrocatalysis group, which develops electrochemical methods in energy conversion and storage.
 {style="text-align: justify;"}
