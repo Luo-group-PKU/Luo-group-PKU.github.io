@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: Research Interest
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -63,26 +63,29 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Marie-Curie Fellow
-          company: Leiden University
+          company: Leiden University (Prof. Marc T.M. Koper)
           company_url: ''
           company_logo: 
           location: The Netherlands
           date_start: '2020-07-01'
           date_end: '2023-02-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description: Fundamental understanding of electrochemical processes at metal-electrolyte interfaces.
         - title: Postdoctoral Fellow
-          company: University of Toronto
+          company: University of Toronto (Prof. Edward H. Sargent)
           company_url: ''
           company_logo: 
           location: Canada
           date_start: '2018-07-01'
           date_end: '2020-07-01'
           description: System engineering of decarbonization reactions at industrial level.
+        - title: Postdoctoral Fellow
+          company: Peking University (Prof. Shaojun Guo)
+          company_url: ''
+          company_logo: 
+          location: China
+          date_start: '2016-07-01'
+          date_end: '2018-07-01'
+          description: Material innovating for renewable energy storage and conversion.
     design:
       columns: '2'
   - block: accomplishments
