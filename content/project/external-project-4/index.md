@@ -1,6 +1,8 @@
 ---
-title: M.S. Student Ji Ying
-summary: Nickel-based catalysts for electrocatalytic ammonia oxidation
+title: Joint M.S. Student<br>Ji Ying
+summary: B.E. Huaiyin Normal University<br>
+         M.S. Shanghai University<br>
+         Nickel-based catalysts for electrocatalytic ammonia oxidation
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
