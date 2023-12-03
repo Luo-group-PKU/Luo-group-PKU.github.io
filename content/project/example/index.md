@@ -1,7 +1,7 @@
 ---
 title: Joint Ph.D student<br> Wei Yi
 summary: B.E. Zhengzhou University<br>
-\t\t\t School of Material Science and Engineering<br>
+         School of Material Science and Engineering<br>
          Ph.D Peking University, School of Physics<br>
          Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
 tags:
