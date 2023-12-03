@@ -1,6 +1,8 @@
 ---
-title: Ph.D student Wei Yi
-summary: Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
+title: Joint Ph.D student Wei Yi
+summary: B.E. Zhengzhou University, School of Material Science and Engineering
+         Ph.D Peking University, School of Physics
+         Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
