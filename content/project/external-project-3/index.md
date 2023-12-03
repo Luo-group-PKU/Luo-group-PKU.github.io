@@ -1,5 +1,5 @@
 ---
-title: Joint Ph.D Student Yu Wenhe
+title: Joint Ph.D Student<br>Yu Wenhe
 summary: B.E. Qingdao University Of Science & Technology<br>
          M.S. China University of Geosciences Beijing<br>
          Ph.D China University of Geosciences Beijing<br>

@@ -1,5 +1,5 @@
 ---
-title: Joint Ph.D student<br> Wei Yi
+title: Joint Ph.D Student<br> Wei Yi
 summary: B.E. Zhengzhou University<br>
          School of Material Science and Engineering<br>
          Ph.D Peking University, School of Physics<br>
