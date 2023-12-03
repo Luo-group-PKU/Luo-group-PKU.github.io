@@ -2,7 +2,7 @@
 title: Ph.D Student Zhang Luming
 summary: Electrocatalytic reduction of carbon dioxide
 tags:
-  - Demo
+  - Graduate Student
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -174,8 +174,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Ph.D Student
-          tag: Ph.D Student
+        - name: Graduate Student
+          tag: Graduate Student
         - name: Postdoc
           tag: Postdoc
     design:

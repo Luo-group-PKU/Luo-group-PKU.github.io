@@ -5,7 +5,7 @@ summary: B.E. Zhengzhou University<br>
          Ph.D Peking University, School of Physics<br>
          Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
 tags:
-  - Deep Learning
+  - Graduate Student
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
