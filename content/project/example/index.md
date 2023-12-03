@@ -1,7 +1,9 @@
 ---
 title: Joint Ph.D student Wei Yi
-summary: B.E. Zhengzhou University, School of MSE   
-         Ph.D Peking University, School of Physics
+summary: B.E. Zhengzhou University, School of MSE  
+
+         Ph.D Peking University, School of Physics  
+
          Electroanalysis, Advanced Electron Microscopy and Ion Beam Techniques
 tags:
   - Deep Learning
