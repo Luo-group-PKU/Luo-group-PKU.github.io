@@ -160,7 +160,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: People
       filters:
         folders:
           - project
@@ -174,10 +174,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Ph.D Student
+          tag: Ph.D Student
+        - name: Postdoc
+          tag: Postdoc
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
